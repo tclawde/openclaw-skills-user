@@ -14,6 +14,7 @@ Take screenshot on Mac mini and send to Feishu.
 - "截图发给我"
 - "截图发送到飞书"
 - "screenshot"
+- "截图skill"
 
 ## 使用方法
 
