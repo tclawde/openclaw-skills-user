@@ -1,6 +1,12 @@
-# screenshot-to-feishu
+---
+name: screenshot_to_feishu
+description: Take screenshot and send to Feishu. Use when user wants to capture screen.
+user-invocable: true
+---
 
-截图桌面并发送到飞书。
+# screenshot_to_feishu
+
+Take screenshot on Mac mini and send to Feishu.
 
 ## Triggers
 
